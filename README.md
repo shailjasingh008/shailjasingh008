@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Shailja Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p>Hey! Everyone 👋 I am Shailja Singh, a Front-end developer and a Graphic Designer. 
+
+In 2015, When the Internet was booming I used to look at random Apps and Websites and wondered how It's made. That's when it all started :)
+
+Now It's been almost 2 years of practicing Front-End and I believe It never gets old for me.
+I've been learning Back-End Development recently and I want to take it forward by becoming a Full-Stack Developer.
+
+I master in HTML, CSS and JavaScript and my currently learning PHP, MySql and MongoDB.
+
+I like to learn random skills which in turn come in handy be it Advanced Excel, Powerpoint, Social Media managing or Graphic Designing. 
+
+I aim to make an Impact by being an Educator / Influencer at the End.
+
+So that's all about me, Hope that's Interesting. :)
+Would love to connect. Feel free to ask for any advice. 😇</p>
+
 - 🔭 I’m currently working on **Front-end designs**
 
 - 🌱 I’m currently learning **Wordpress and Visual Codes**
