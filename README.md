@@ -13,9 +13,7 @@ I master in HTML, CSS and JavaScript and my currently learning PHP, MySql and Mo
 I like to learn random skills which in turn come in handy be it Advanced Excel, Powerpoint, Social Media managing or Graphic Designing. 
 
 I aim to make an Impact by being an Educator / Influencer at the End.
-
-So that's all about me, Hope that's Interesting. :)
-Would love to connect. Feel free to ask for any advice. 😇</p>
+</p>
 
 - 🔭 I’m currently working on **Front-end designs**
 
@@ -32,6 +30,9 @@ Would love to connect. Feel free to ask for any advice. 😇</p>
 - 📫 How to reach me **shailjasingh.82001@gmail.com**
 
 - ⚡ Fun fact **I,m more into multiplayer games**
+
+<p> So that's all about me, Hope that's Interesting. :)
+Would love to connect. Feel free to ask for any advice. 😇</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
