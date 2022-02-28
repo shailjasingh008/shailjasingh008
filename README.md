@@ -35,11 +35,11 @@ Would love to connect. Feel free to ask for any advice. 😇</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shailjasingh_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shailjasingh_08" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shailja-singh-7716a7226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shailja-singh-7716a7226" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18335271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18335271" height="30" width="40" /></a>
 <a href="https://instagram.com/nubdeveloper.95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nubdeveloper.95" height="30" width="40" /></a>
 <a href="https://www.behance.net/nubdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nubdeveloper" height="30" width="40" /></a>
+<a href="https://twitter.com/shailjasingh_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shailjasingh_08" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
