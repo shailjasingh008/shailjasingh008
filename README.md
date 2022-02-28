@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shailja Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Front-end Developer from India</h3>
 
 <p>Hey! Everyone 👋 I am Shailja Singh, a Front-end developer and a Graphic Designer. 
 
